@@ -1,1 +1,1 @@
-# Quick-Sort-c-
+# Quick-Sort-C++
